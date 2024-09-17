@@ -1,10 +1,3 @@
-https://www.rust-lang.org/learn/get-started
+# Rust Learning
 
-rustup
-cargo
-https://crates.io/
-
-https://doc.rust-lang.org/std/prelude/index.html
-
-
-cargo doc --open
+Repository used to learn rust reading the book The Rust Programming Language: https://doc.rust-lang.org/book/
